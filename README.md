@@ -1,3 +1,7 @@
+# About this fork
+This fork is done to support test automation lessons.
+Since students often use Windows, and this package uses a Unix-only server *gunicorn*, small changes are required to make the package runnable.
+
 # rdltr
 
 [![PyPI version](https://img.shields.io/pypi/v/rdltr.svg)](https://pypi.org/project/rdltr/)
